@@ -1,5 +1,7 @@
 # OpenCode Go Usage
 
+> English · [中文](./README.zh-CN.md)
+
 OpenCode TUI plugin that shows the remaining OpenCode Go usage in the session prompt and opens a detailed quota panel.
 
 ## Features
